@@ -12,7 +12,7 @@
 							   useTablePersonalisation="true"
 							   header="Checked out books"
 							   tableType="ResponsiveTable"
-							   showRowCount="true"
+							   showRowCount="false"
 							   persistencyKey="SmartTableRefApp_Explored"
 							   enableAutoBinding="true"
 							   class="sapUiResponsiveContentPadding"
